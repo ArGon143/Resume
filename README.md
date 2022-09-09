@@ -1,3 +1,3 @@
 # Мое резюме
 ## Результат Вы можете посмотреть тут
-[Проба пера](https://duckduckgo.com)
+[Проба пера](https://argon143.github.io/Resume/)
